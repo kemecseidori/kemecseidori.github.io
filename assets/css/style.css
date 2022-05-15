@@ -562,7 +562,6 @@ main .insights small {
      .container {
          width: 90%;
          height: 100vh;
-         grid-template-columns: 7rem auto 23rem;
      }
  
      aside .sidebar h3{
@@ -583,7 +582,7 @@ main .insights small {
      }
  
      main .insights {
-         grid-template-columns: repeat(2,1fr);
+         display: flexbox;
      }
 
      main .insights > div {
