@@ -513,12 +513,17 @@ main .insights small {
 /*-------- media queries---------*/
 
 @media screen and (max-width: 1200px){
+
+    aside .sidebar {
+    width: 80%;
+    }
+
     aside .logo img {
        width: 8rem;
     }
     .container {
         width: 85%;
-        grid-template-columns: 7rem auto 23rem;
+        display: flexbox;
     }
 
     aside .sidebar h3{
@@ -543,7 +548,7 @@ main .insights small {
         width: 84vw;
     }
     .right .top-three-by-sold, .right .top-three-by-income {
-        width: 20rem;
+        max-width: 100%;
         padding: 1rem;
         margin: 2rem;
      }
@@ -556,6 +561,7 @@ main .insights small {
      }
      .container {
          width: 90%;
+         height: 100vh;
          grid-template-columns: 7rem auto 23rem;
      }
  
@@ -571,6 +577,10 @@ main .insights small {
          position: relative;
          margin-top: 1.8rem;
      }
+
+     main{
+         width: 90%;
+     }
  
      main .insights {
          grid-template-columns: repeat(2,1fr);
@@ -585,9 +595,16 @@ main .insights small {
          width: 84vw;
          margin: 0 auto;
      }
+     .right {
+         width: 90%;
+     }
+
+     .right .top {
+         padding: 1rem;
+     }
 
      .right .top-three-by-sold, .right .top-three-by-income {
-        width: 20rem;
+        width: 18rem;
         padding: 1rem;
         margin: 2rem;
      }
