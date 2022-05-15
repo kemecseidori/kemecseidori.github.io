@@ -542,7 +542,11 @@ main .insights small {
     main .respChart {
         width: 84vw;
     }
-
+    .right .top-three-by-sold, .right .top-three-by-income {
+        width: 20rem;
+        padding: 1rem;
+        margin: 2rem;
+     }
 }
 
 /* Media Query for Tablets Ipads portrait mode */
