@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald|Quattrocento" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <aside>
+            <div class="top">
+                <div class="logo">
+                    <img src="./assets/logo-full.png">
+                </div>
+                <div class="close" id="close-btn">
+                    <span class="material-icons-sharp">
+                        close
+                    </span>
+                </div>
+            </div>
+            <div class="sidebar">
+                <a href="index.html">
+                    <span class="material-icons-sharp">
+                        dashboard
+                    </span>
+                    <h3>Dashboard</h3>
+                </a>
+                <a href="customers.html" class="active">
+                    <span class="material-icons-sharp">
+                        groups
+                    </span>
+                    <h3>Customers</h3>
+                </a>
+                <a href="orders.html">
+                    <span class="material-icons-sharp">
+                        receipt_long
+                    </span>
+                    <h3>Orders</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        email
+                    </span>
+                    <h3>Messages</h3>
+                    <span class="message-count">26</span>
+                </a>
+                <a href="products.html">
+                    <span class="material-icons-sharp">
+                        inventory
+                    </span>
+                    <h3>Products</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        summarize
+                    </span>
+                    <h3>Reports</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        insights
+                    </span>
+                    <h3>Analytics</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        settings
+                    </span>
+                    <h3>Settings</h3>
+                </a>
+                <a href="#">
+                    <span class="material-icons-sharp">
+                        logout
+                    </span>
+                    <h3>Log out</h3>
+                </a>
+            </div>
+        </aside>
+        <main>
+            <h1>Dashboard</h1>
+            <div class="insights">
+                <div class="sales">
+                    <span class="material-icons-sharp">
+                        analytics
+                    </span>
+                    <div class="middle">
+                        <div class="left">
+                            <h3>Sold Items</h3>
+                            <h1 id="totalSales"></h1>
+                        </div>
+                    </div>
+                    <small class="text-muted">last 24 hours</small>
+                </div>
+                <div class="income">
+                    <span class="material-icons-sharp">
+                        account_balance
+                    </span>
+                    <div class="middle">
+                        <div class="left">
+                            <h3>Total Earnings</h3>
+                            <h1 id="totalIncome"></h1>
+                        </div>
+                    </div>
+                    <small class="text-muted">last 24 hours</small>
+                </div>
+            </div>
+            <div class="recent-order">
+                <h2>units sold / month</h2>
+            </div>
+            <div>
+                <form class="cust-filter">
+                    <label id="cust-lab">Choose Customer: </label>
+                    <select name="customers" id="customers">
+                        <option value="cust1">Alberto Fonzi</option>
+                        <option value="cust2">Alexia Alarie</option>
+                        <option value="cust3">Anatole Bescond</option>
+                        <option value="cust4">Ann Brown</option>
+                        <option value="cust5">Anne Roth</option>
+                        <option value="cust6">Anthony Webster</option>
+                        <option value="cust7">Barbara Parodi</option>
+                        <option value="cust8">Benoît Bellegarde</option>
+                        <option value="cust9">Berkshire Independent Hospital</option>
+                        <option value="cust10">Björn Posse</option>
+                        <option value="cust11">Brad Pitt</option>
+                        <option value="cust12">Broussais University Hospital</option>
+                        <option value="cust13">Cécilia Blanchet</option>
+                        <option value="cust14">Central Hospital</option>
+                        <option value="cust15">Chilton Memorial Hospital</option>
+                        <option value="cust16">Dante Signorini</option>
+                        <option value="cust17">David Barnard</option>
+                        <option value="cust18">Ewelina Krupowicz</option>
+                        <option value="cust19">Eweline Krupowicz</option>
+                        <option value="cust20">Gilbert Gauthier</option>
+                        <option value="cust21">Gonzalo Redriguez</option>
+                        <option value="cust22">Graeme Barber</option>
+                        <option value="cust23">Guglielma Trevisan</option>
+                        <option value="cust24">Guingamp Hospital</option>
+                        <option value="cust25">Hallmark Clinic</option>
+                        <option value="cust26">Henry Smith</option>
+                        <option value="cust27">Hôpital Cochin</option>
+                        <option value="cust28">Hôpital Européen Georges Pompidou</option>
+                        <option value="cust29">Hôpital Saint-Louis</option>
+                        <option value="cust30">Hospital Alexander Krankenhaus</option>
+                        <option value="cust31">Hospital de Puerto Real</option>
+                        <option value="cust32">Iseult Bélanger</option>
+                        <option value="cust33">Jan Neumann</option>
+                        <option value="cust34">Jane White</option>
+                        <option value="cust35">Javier Espinoza</option>
+                        <option value="cust36">Jean-Luc Besnard</option>
+                        <option value="cust37">Jesualdo Bustos Muñiz</option>
+                        <option value="cust38">John Johnson</option>
+                        <option value="cust39">Jon Doe</option>
+                        <option value="cust40">Jordi Vidal</option>
+                        <option value="cust41">Julian Dupont</option>
+                        <option value="cust42">Juliet Beardsley</option>
+                        <option value="cust43">Karen Bell</option>
+                        <option value="cust44">Karolinska Hospital</option>
+                        <option value="cust45">Leo Wood</option>
+                        <option value="cust46">Leoni Beker</option>
+                        <option value="cust47">Leonie Becker</option>
+                        <option value="cust48">Leopold Kohn</option>
+                        <option value="cust49">Leroy Meunier</option>
+                        <option value="cust50">Luca Argento</option>
+                        <option value="cust51">Luca Toni</option>
+                        <option value="cust52">Lucas Beaumanoir</option>
+                        <option value="cust53">Lucia Zapponi</option>
+                        <option value="cust54">Lukas Schorle</option>
+                        <option value="cust55">Manne J Sundström</option>
+                        <option value="cust56">Maria Giovanna Ruggeri</option>
+                        <option value="cust57">Mark Johnson</option>
+                        <option value="cust58">Massimiliano Nazionale</option>
+                        <option value="cust59">Maxim Shultz</option>
+                        <option value="cust60">Michele Fruscella</option>
+                        <option value="cust61">MVS Online 2</option>
+                        <option value="cust62">Naomi Hopkins</option>
+                        <option value="cust63">Nicolette Bruneau</option>
+                        <option value="cust64">Nina Chaucer</option>
+                        <option value="cust65">Oliver Hansdotter</option>
+                        <option value="cust66">Ospedale Maggiore</option>
+                        <option value="cust67">Peak View Hospital</option>
+                        <option value="cust68">Peer Brinkmann</option>
+                        <option value="cust69">Peter Nürnberger</option>
+                        <option value="cust70">Piersilvio Brancato</option>
+                        <option value="cust71">Rebecca Hill</option>
+                        <option value="cust72">Richard Savage</option>
+                        <option value="cust73">Robert Adams</option>
+                        <option value="cust74">Rodrigo Jimenez</option>
+                        <option value="cust75">S. Gerardo Monza</option>
+                        <option value="cust76">Sam Daniels</option>
+                        <option value="cust77">Sarah Brown</option>
+                        <option value="cust78">Sarah Jones</option>
+                        <option value="cust79">Sarah Moore</option>
+                        <option value="cust80">Sean Dunne</option>
+                        <option value="cust81">Solenn Desmarais</option>
+                        <option value="cust82">St. John hospital</option>
+                        <option value="cust83">St. Martin Clinique</option>
+                        <option value="cust84">Stefan Lingsminat</option>
+                        <option value="cust85">Sven Pernerstorfer</option>
+                        <option value="cust86">Test Test</option>
+                        <option value="cust87">Tiphaine Thibodeau</option>
+                        <option value="cust88">WienerKlinik</option>
+                    </select>
+                  </form>
+                  <div class="respChart">
+                <canvas id="myChart"></canvas>
+            </div>
+              </div>
+            </main>
+            <div class="right">
+                <div class="top">
+                    <button id="menu-btn">
+                        <span class="material-icons-sharp">menu</span>
+                    </button>
+                    <div class="theme-toggler">
+                        <span class="material-icons-sharp active">light_mode</span>
+                        <span class="material-icons-sharp">dark_mode</span>
+                    </div>
+                    <div class="profile">
+                        <div class="info">
+                            <p>Hey, <span>user</span></p>
+                        </div>
+                        <div class="profile-photo">
+                            <img src="./assets/images/profile.jpg" alt="profile photo">
+                        </div>
+                    </div>
+                </div>
+                <div class="top-three-by-sold">
+                    <h2>Top Three by sold</h2>
+                        <table id="topThreeEmpl">
+                            <tr>
+                                <th>ED</th>
+                                <th>Name</th>
+                                <th>Sales</th>
+                              </tr>
+                          </table>
+                </div>
+                <div class="top-three-by-income">
+                    <h2>Top Three by income</h2>
+                        <table id="topThreeEmplByIncome">
+                            <tr>
+                                <th>EID</th>
+                                <th>Name</th>
+                                <th>Revenue</th>
+                              </tr>
+                          </table>
+                </div>
+            </div>
+    </div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="Chart.min.js"></script>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

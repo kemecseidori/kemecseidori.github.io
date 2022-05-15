@@ -1,0 +1,778 @@
+Account;Account type;Salesperson ID;Order status;Order date;Product Id;Number of product sold
+Hospital Alexander Krankenhaus;Hospital;SPID19;Saved_vod;2018.09.24;PID01;10
+Alexia Alarie;Doctor;SPID22;Saved_vod;2018.09.04;PID02;18
+Leonie Becker;Doctor;SPID04;Saved_vod;2018.09.10;PID03;6
+Michele Fruscella;Doctor;SPID28;Saved_vod;2018.09.19;PID04;9
+Leonie Becker;Doctor;SPID27;Saved_vod;2018.09.03;PID05;12
+Test Test;Doctor;SPID02;Saved_vod;2018.09.05;PID06;14
+S. Gerardo Monza;Hospital;SPID17;Submitted_vod;2018.09.21;PID07;15
+Luca Argento;Doctor;SPID23;Submitted_vod;2018.10.08;PID08;19
+Iseult Bélanger;Doctor;SPID26;Planned_vod;2018.09.20;PID09;21
+Broussais University Hospital;Hospital;SPID13;Saved_vod;2018.09.18;PID10;14
+Naomi Hopkins;Doctor;SPID15;Planned_vod;2018.09.19;PID11;10
+Alexia Alarie;Doctor;SPID16;Planned_vod;2018.09.18;PID01;9
+Ann Brown;Doctor;SPID03;Saved_vod;2018.09.19;PID02;23
+Hallmark Clinic;Hospital;SPID25;Submitted_vod;2018.09.24;PID03;23
+Hallmark Clinic;Hospital;SPID10;Saved_vod;2018.09.25;PID04;27
+Alexia Alarie;Doctor;SPID07;Saved_vod;2018.09.18;PID05;12
+Hospital Alexander Krankenhaus;Hospital;SPID08;Saved_vod;2018.09.19;PID06;24
+Broussais University Hospital;Hospital;SPID24;Planned_vod;2018.09.20;PID07;17
+Mark Johnson;Doctor;SPID06;Submitted_vod;2018.10.05;PID08;29
+Hospital Alexander Krankenhaus;Hospital;SPID01;Submitted_vod;2018.02.14;PID09;14
+Leopold Kohn;Doctor;SPID11;Submitted_vod;2018.09.06;PID10;27
+Alexia Alarie;Doctor;SPID18;Planned_vod;2018.09.20;PID11;5
+Mark Johnson;Doctor;SPID12;Submitted_vod;2018.09.13;PID01;21
+Leonie Becker;Doctor;SPID21;Saved_vod;2018.09.21;PID02;13
+Leonie Becker;Doctor;SPID20;Saved_vod;2018.02.21;PID03;20
+Lucia Zapponi;Doctor;SPID05;Saved_vod;2018.09.13;PID04;23
+Manne J Sundström;Doctor;SPID09;Planned_vod;2018.10.12;PID05;29
+Hôpital Cochin;Hospital;SPID14;Submitted_vod;2018.09.13;PID06;28
+Sarah Brown;Doctor;SPID24;Submitted_vod;2018.10.04;PID07;15
+Leonie Becker;Doctor;SPID17;Submitted_vod;2018.03.21;PID08;11
+Leonie Becker;Doctor;SPID10;Submitted_vod;2018.09.04;PID09;21
+Ospedale Maggiore;Hospital;SPID12;Submitted_vod;2018.10.08;PID10;7
+Alexia Alarie;Doctor;SPID27;Planned_vod;2018.09.14;PID11;23
+Hospital Alexander Krankenhaus;Hospital;SPID01;Submitted_vod;2018.09.24;PID01;9
+Manne J Sundström;Doctor;SPID07;Submitted_vod;2018.03.25;PID02;21
+Manne J Sundström;Doctor;SPID20;Submitted_vod;2018.09.24;PID03;16
+Lucia Zapponi;Doctor;SPID25;Submitted_vod;2018.09.13;PID04;25
+Ospedale Maggiore;Hospital;SPID14;Submitted_vod;2018.09.13;PID05;5
+Oliver Hansdotter;Doctor;SPID19;Saved_vod;2018.02.26;PID06;11
+Broussais University Hospital;Hospital;SPID15;Submitted_vod;2018.09.12;PID07;29
+Leonie Becker;Doctor;SPID04;Saved_vod;2018.09.05;PID08;21
+Barbara Parodi;Doctor;SPID13;Planned_vod;2018.09.18;PID09;25
+Manne J Sundström;Doctor;SPID28;Saved_vod;2018.03.25;PID10;20
+Alexia Alarie;Doctor;SPID09;Saved_vod;2018.09.11;PID11;23
+Hospital Alexander Krankenhaus;Hospital;SPID11;Submitted_vod;2018.09.19;PID01;24
+Michele Fruscella;Doctor;SPID06;Submitted_vod;2018.09.19;PID02;13
+Leonie Becker;Doctor;SPID21;Submitted_vod;2018.02.19;PID03;18
+Hospital Alexander Krankenhaus;Hospital;SPID18;Submitted_vod;2018.09.21;PID04;28
+S. Gerardo Monza;Hospital;SPID03;Submitted_vod;2018.09.19;PID05;30
+Oliver Hansdotter;Doctor;SPID26;Saved_vod;2018.09.25;PID06;20
+Luca Argento;Doctor;SPID23;Saved_vod;2018.09.13;PID07;8
+Hospital Alexander Krankenhaus;Hospital;SPID05;Planned_vod;2018.03.18;PID08;13
+Leonie Becker;Doctor;SPID22;Saved_vod;2018.09.21;PID09;10
+Hospital Alexander Krankenhaus;Hospital;SPID08;Submitted_vod;2018.09.21;PID10;6
+Alexia Alarie;Doctor;SPID02;Submitted_vod;2018.09.12;PID11;15
+Cécilia Blanchet;Doctor;SPID16;Planned_vod;2018.09.21;PID01;23
+Broussais University Hospital;Hospital;SPID28;Saved_vod;2018.09.04;PID02;27
+Hospital de Puerto Real;Hospital;SPID26;Saved_vod;2018.09.21;PID03;20
+Piersilvio Brancato;Doctor;SPID04;Saved_vod;2018.08.31;PID04;11
+Piersilvio Brancato;Doctor;SPID04;Saved_vod;2018.09.11;PID05;15
+Broussais University Hospital;Hospital;SPID16;Saved_vod;2018.10.08;PID06;9
+Luca Argento;Doctor;SPID27;Saved_vod;2018.09.04;PID07;17
+Sven Pernerstorfer;Doctor;SPID17;Saved_vod;2018.09.21;PID08;30
+Hallmark Clinic;Hospital;SPID06;Submitted_vod;2018.09.25;PID09;8
+Ann Brown;Doctor;SPID14;Planned_vod;2018.09.18;PID10;23
+Manne J Sundström;Doctor;SPID09;Submitted_vod;2018.10.09;PID11;30
+Ospedale Maggiore;Hospital;SPID27;Planned_vod;2018.09.18;PID01;10
+S. Gerardo Monza;Hospital;SPID24;Saved_vod;2018.08.09;PID02;29
+Lukas Schorle;Doctor;SPID03;Submitted_vod;2018.09.06;PID03;13
+Nina Chaucer;Doctor;SPID25;Saved_vod;2018.08.10;PID04;26
+Oliver Hansdotter;Doctor;SPID13;Submitted_vod;2018.09.26;PID05;12
+Manne J Sundström;Doctor;SPID15;Submitted_vod;2018.09.24;PID06;24
+Michele Fruscella;Doctor;SPID07;Submitted_vod;2018.09.06;PID07;11
+Hospital Alexander Krankenhaus;Hospital;SPID01;Saved_vod;2018.09.21;PID08;24
+Leonie Becker;Doctor;SPID05;Saved_vod;2018.09.04;PID09;18
+Hospital Alexander Krankenhaus;Hospital;SPID07;Submitted_vod;2018.09.20;PID10;16
+Luca Argento;Doctor;SPID22;Submitted_vod;2018.10.08;PID11;5
+Ospedale Maggiore;Hospital;SPID11;Submitted_vod;2018.10.08;PID01;10
+Broussais University Hospital;Hospital;SPID28;Saved_vod;2018.09.11;PID02;15
+Leonie Becker;Doctor;SPID24;Saved_vod;2018.09.21;PID03;7
+Hospital de Puerto Real;Hospital;SPID18;Submitted_vod;2018.09.28;PID04;18
+Sarah Brown;Doctor;SPID08;Submitted_vod;2018.01.04;PID05;18
+Oliver Hansdotter;Doctor;SPID21;Saved_vod;2018.09.25;PID06;13
+Sven Pernerstorfer;Doctor;SPID12;Submitted_vod;2018.09.21;PID07;19
+Broussais University Hospital;Hospital;SPID06;Planned_vod;2018.09.18;PID08;25
+Ospedale Maggiore;Hospital;SPID12;Submitted_vod;2018.10.08;PID09;24
+Ospedale Maggiore;Hospital;SPID02;Submitted_vod;2018.10.08;PID10;15
+Nicolette Bruneau;Doctor;SPID07;Submitted_vod;2018.09.13;PID11;9
+Leonie Becker;Doctor;SPID25;Saved_vod;2018.09.21;PID01;9
+Broussais University Hospital;Hospital;SPID12;Planned_vod;2018.09.14;PID02;7
+Hospital Alexander Krankenhaus;Hospital;SPID20;Saved_vod;2018.09.21;PID03;11
+Broussais University Hospital;Hospital;SPID23;Planned_vod;2018.09.18;PID04;17
+Ospedale Maggiore;Hospital;SPID21;Submitted_vod;2018.08.14;PID05;19
+Alexia Alarie;Doctor;SPID23;Saved_vod;2018.09.18;PID06;11
+Piersilvio Brancato;Doctor;SPID10;Submitted_vod;2018.01.08;PID07;5
+Alexia Alarie;Doctor;SPID18;Submitted_vod;2018.10.08;PID08;18
+Alexia Alarie;Doctor;SPID10;Saved_vod;2018.09.13;PID09;25
+Broussais University Hospital;Hospital;SPID24;Saved_vod;2018.09.18;PID10;27
+Alexia Alarie;Doctor;SPID16;Saved_vod;2018.10.08;PID11;15
+Leonie Becker;Doctor;SPID19;Saved_vod;2018.09.04;PID01;11
+Leoni Beker;Doctor;SPID04;Saved_vod;2018.09.05;PID02;14
+Gonzalo Redriguez;Doctor;SPID13;Saved_vod;2018.09.21;PID03;30
+Piersilvio Brancato;Doctor;SPID05;Planned_vod;2018.09.20;PID04;7
+Ann Brown;Doctor;SPID15;Submitted_vod;2018.09.06;PID05;8
+Hospital Alexander Krankenhaus;Hospital;SPID11;Submitted_vod;2018.09.04;PID06;10
+Sven Pernerstorfer;Doctor;SPID02;Submitted_vod;2018.09.21;PID07;12
+Leonie Becker;Doctor;SPID23;Submitted_vod;2018.09.21;PID08;26
+Peer Brinkmann;Doctor;SPID28;Submitted_vod;2018.09.21;PID09;11
+Peer Brinkmann;Doctor;SPID14;Saved_vod;2018.09.24;PID10;16
+Hospital Alexander Krankenhaus;Hospital;SPID20;Planned_vod;2018.09.07;PID11;10
+Björn Posse;Doctor;SPID19;Submitted_vod;2018.09.26;PID01;30
+Central Hospital;Hospital;SPID08;Saved_vod;2018.02.09;PID02;30
+Alexia Alarie;Doctor;SPID17;Saved_vod;2018.08.10;PID03;26
+Rodrigo Jimenez;Doctor;SPID26;Submitted_vod;2018.09.28;PID04;9
+Anne Roth;Doctor;SPID02;Saved_vod;2018.08.09;PID05;30
+Hospital Alexander Krankenhaus;Hospital;SPID26;Saved_vod;2018.09.04;PID06;27
+Leoni Beker;Doctor;SPID22;Planned_vod;2018.09.07;PID07;17
+Nicolette Bruneau;Doctor;SPID18;Planned_vod;2018.09.11;PID08;23
+Hospital Alexander Krankenhaus;Hospital;SPID21;Saved_vod;2018.09.21;PID09;5
+Sven Pernerstorfer;Doctor;SPID05;Saved_vod;2018.09.21;PID10;8
+Broussais University Hospital;Hospital;SPID13;Planned_vod;2018.09.13;PID11;27
+Broussais University Hospital;Hospital;SPID09;Saved_vod;2018.09.11;PID01;25
+Alexia Alarie;Doctor;SPID08;Planned_vod;2018.09.13;PID02;19
+Nicolette Bruneau;Doctor;SPID01;Submitted_vod;2018.09.13;PID03;15
+Hallmark Clinic;Hospital;SPID10;Submitted_vod;2018.09.24;PID04;11
+Hospital Alexander Krankenhaus;Hospital;SPID22;Submitted_vod;2018.09.21;PID05;19
+Alberto Fonzi;Doctor;SPID14;Saved_vod;2018.09.28;PID06;12
+Michele Fruscella;Doctor;SPID06;Planned_vod;2018.09.07;PID07;6
+Sven Pernerstorfer;Doctor;SPID11;Submitted_vod;2018.09.21;PID08;18
+Broussais University Hospital;Hospital;SPID27;Saved_vod;2018.09.13;PID09;8
+Hospital Alexander Krankenhaus;Hospital;SPID01;Submitted_vod;2018.09.21;PID10;9
+Leoni Beker;Doctor;SPID03;Planned_vod;2018.09.18;PID11;17
+Hospital Alexander Krankenhaus;Hospital;SPID03;Saved_vod;2018.09.04;PID01;12
+Sam Daniels;Doctor;SPID15;Planned_vod;2018.07.05;PID01;14
+Luca Argento;Doctor;SPID09;Saved_vod;2018.10.08;PID02;19
+MVS Online 2;Doctor;SPID25;Submitted_vod;2018.09.19;PID03;15
+Ann Brown;Doctor;SPID16;Saved_vod;2018.09.19;PID04;28
+Sven Pernerstorfer;Doctor;SPID20;Submitted_vod;2018.09.21;PID05;22
+Hospital Alexander Krankenhaus;Hospital;SPID19;Saved_vod;2018.09.21;PID06;14
+Brad Pitt;Doctor;SPID17;Submitted_vod;2018.09.21;PID07;27
+Piersilvio Brancato;Doctor;SPID28;Submitted_vod;2018.10.08;PID08;30
+Leopold Kohn;Doctor;SPID26;Saved_vod;2018.09.06;PID09;6
+Ann Brown;Doctor;SPID04;Saved_vod;2018.09.06;PID10;14
+Lucas Beaumanoir;Doctor;SPID04;Submitted_vod;2018.01.01;PID11;18
+Luca Argento;Doctor;SPID16;Submitted_vod;2018.10.05;PID01;26
+Lucia Zapponi;Doctor;SPID27;Submitted_vod;2018.09.13;PID02;20
+Broussais University Hospital;Hospital;SPID17;Saved_vod;2018.09.10;PID03;23
+Broussais University Hospital;Hospital;SPID06;Saved_vod;2018.09.13;PID04;26
+Hospital Alexander Krankenhaus;Hospital;SPID14;Planned_vod;2018.09.18;PID05;24
+Lucia Zapponi;Doctor;SPID09;Saved_vod;2018.09.13;PID06;27
+Ospedale Maggiore;Hospital;SPID27;Saved_vod;2018.10.08;PID07;20
+Lukas Schorle;Doctor;SPID24;Submitted_vod;2018.10.04;PID08;6
+Hospital Alexander Krankenhaus;Hospital;SPID03;Saved_vod;2018.09.21;PID09;29
+Hospital Alexander Krankenhaus;Hospital;SPID25;Saved_vod;2018.09.21;PID10;25
+Sarah Jones;Doctor;SPID13;Submitted_vod;2018.10.02;PID11;18
+WienerKlinik;Hospital;SPID15;Submitted_vod;2018.10.03;PID01;22
+Leonie Becker;Doctor;SPID07;Saved_vod;2018.09.21;PID02;12
+Ospedale Maggiore;Hospital;SPID01;Submitted_vod;2018.10.05;PID03;29
+Ann Brown;Doctor;SPID05;Submitted_vod;2018.09.21;PID04;17
+Ospedale Maggiore;Hospital;SPID07;Submitted_vod;2018.10.08;PID05;15
+Nicolette Bruneau;Doctor;SPID22;Planned_vod;2018.09.11;PID06;22
+Sven Pernerstorfer;Doctor;SPID11;Saved_vod;2018.09.21;PID07;6
+Mark Johnson;Doctor;SPID28;Submitted_vod;2018.10.08;PID08;24
+Piersilvio Brancato;Doctor;SPID24;Submitted_vod;2018.09.13;PID09;9
+Hospital Alexander Krankenhaus;Hospital;SPID18;Saved_vod;2018.09.10;PID10;5
+Hospital Alexander Krankenhaus;Hospital;SPID08;Saved_vod;2018.09.03;PID11;22
+Leonie Becker;Doctor;SPID21;Saved_vod;2018.09.25;PID01;28
+Ann Brown;Doctor;SPID12;Planned_vod;2018.09.18;PID02;17
+Alexia Alarie;Doctor;SPID06;Saved_vod;2018.09.10;PID03;12
+Michele Fruscella;Doctor;SPID12;Submitted_vod;2018.09.06;PID04;15
+Jesualdo Bustos Muñiz;Doctor;SPID02;Planned_vod;2018.09.18;PID05;9
+Luca Argento;Doctor;SPID07;Planned_vod;2018.09.18;PID06;25
+Sarah Jones;Doctor;SPID25;Saved_vod;2018.10.03;PID07;22
+Ann Brown;Doctor;SPID12;Submitted_vod;2018.09.24;PID08;7
+Alexia Alarie;Doctor;SPID20;Saved_vod;2018.09.13;PID09;5
+Leonie Becker;Doctor;SPID23;Submitted_vod;2018.09.14;PID10;30
+S. Gerardo Monza;Hospital;SPID21;Planned_vod;2018.09.19;PID11;22
+Cécilia Blanchet;Doctor;SPID23;Saved_vod;2018.09.28;PID01;17
+Luca Argento;Doctor;SPID10;Submitted_vod;2018.09.13;PID01;11
+Alexia Alarie;Doctor;SPID18;Planned_vod;2018.09.18;PID02;6
+Leoni Beker;Doctor;SPID10;Planned_vod;2018.09.19;PID03;28
+Leoni Beker;Doctor;SPID24;Saved_vod;2018.09.17;PID04;19
+Broussais University Hospital;Hospital;SPID16;Saved_vod;2018.09.18;PID05;30
+Alexia Alarie;Doctor;SPID19;Saved_vod;2018.09.18;PID06;19
+Ospedale Maggiore;Hospital;SPID04;Submitted_vod;2018.08.14;PID07;15
+Barbara Parodi;Doctor;SPID13;Submitted_vod;2018.01.08;PID08;7
+Leo Wood;Doctor;SPID05;Planned_vod;2018.10.12;PID09;12
+Hospital Alexander Krankenhaus;Hospital;SPID15;Submitted_vod;2018.09.17;PID10;19
+Luca Argento;Doctor;SPID11;Saved_vod;2018.10.09;PID11;17
+Chilton Memorial Hospital;Hospital;SPID02;Submitted_vod;2018.02.04;PID01;5
+Naomi Hopkins;Doctor;SPID23;Submitted_vod;2018.09.21;PID02;5
+Leonie Becker;Doctor;SPID28;Submitted_vod;2018.09.20;PID03;12
+Hospital Alexander Krankenhaus;Hospital;SPID14;Submitted_vod;2018.09.21;PID04;12
+Ospedale Maggiore;Hospital;SPID20;Saved_vod;2018.09.13;PID05;7
+Ospedale Maggiore;Hospital;SPID19;Saved_vod;2018.09.11;PID06;29
+Ospedale Maggiore;Hospital;SPID08;Submitted_vod;2018.10.08;PID07;24
+Alexia Alarie;Doctor;SPID17;Saved_vod;2018.09.11;PID08;13
+Sarah Brown;Doctor;SPID26;Submitted_vod;2018.10.04;PID09;5
+Leonie Becker;Doctor;SPID02;Saved_vod;2018.09.18;PID10;17
+Luca Argento;Doctor;SPID26;Saved_vod;2018.09.13;PID11;17
+Mark Johnson;Doctor;SPID22;Saved_vod;2018.09.13;PID01;9
+Michele Fruscella;Doctor;SPID18;Saved_vod;2018.09.17;PID02;21
+Luca Argento;Doctor;SPID21;Submitted_vod;2018.10.08;PID03;20
+Ospedale Maggiore;Hospital;SPID05;Submitted_vod;2018.10.08;PID04;22
+Luca Argento;Doctor;SPID13;Saved_vod;2018.09.12;PID05;27
+Hospital Alexander Krankenhaus;Hospital;SPID09;Saved_vod;2018.09.05;PID06;8
+Leonie Becker;Doctor;SPID08;Submitted_vod;2018.09.17;PID07;10
+Ann Brown;Doctor;SPID01;Saved_vod;2018.09.19;PID08;9
+Michele Fruscella;Doctor;SPID10;Saved_vod;2018.10.08;PID09;26
+Maxim Shultz;Doctor;SPID22;Submitted_vod;2018.10.03;PID10;11
+Luca Argento;Doctor;SPID14;Submitted_vod;2018.02.14;PID11;15
+Luca Argento;Doctor;SPID06;Submitted_vod;2018.10.08;PID01;14
+Luca Argento;Doctor;SPID11;Saved_vod;2018.08.14;PID02;17
+Naomi Hopkins;Doctor;SPID27;Planned_vod;2018.08.15;PID03;28
+Luca Argento;Doctor;SPID01;Saved_vod;2018.09.05;PID04;25
+Hospital Alexander Krankenhaus;Hospital;SPID03;Saved_vod;2018.09.25;PID05;8
+Luca Argento;Doctor;SPID03;Submitted_vod;2018.10.08;PID06;21
+Broussais University Hospital;Hospital;SPID15;Saved_vod;2018.08.10;PID07;14
+Alexia Alarie;Doctor;SPID09;Saved_vod;2018.08.10;PID08;25
+Manne J Sundström;Doctor;SPID25;Submitted_vod;2018.01.12;PID09;17
+Hospital Alexander Krankenhaus;Hospital;SPID16;Planned_vod;2018.10.12;PID10;24
+Hallmark Clinic;Hospital;SPID20;Planned_vod;2018.10.12;PID11;14
+Leonie Becker;Doctor;SPID19;Saved_vod;2018.09.03;PID01;24
+Alexia Alarie;Doctor;SPID17;Saved_vod;2018.03.10;PID01;21
+Leonie Becker;Doctor;SPID18;Saved_vod;2018.08.17;PID02;17
+Luca Argento;Doctor;SPID12;Submitted_vod;2018.08.14;PID03;22
+Luca Argento;Doctor;SPID05;Submitted_vod;2018.03.14;PID04;24
+Leonie Becker;Doctor;SPID04;Planned_vod;2018.08.15;PID05;15
+Karolinska Hospital;Hospital;SPID22;Submitted_vod;2018.10.12;PID06;12
+Luca Argento;Doctor;SPID19;Planned_vod;2018.02.17;PID07;13
+Manne J Sundström;Doctor;SPID22;Planned_vod;2018.10.12;PID08;17
+Rebecca Hill;Doctor;SPID23;Submitted_vod;2018.10.11;PID09;25
+John Johnson;Doctor;SPID20;Saved_vod;2018.09.14;PID10;10
+Oliver Hansdotter;Doctor;SPID24;Submitted_vod;2018.01.12;PID11;15
+Luca Argento;Doctor;SPID15;Submitted_vod;2018.09.03;PID01;30
+Luca Argento;Doctor;SPID13;Submitted_vod;2018.09.03;PID02;9
+Luca Argento;Doctor;SPID21;Submitted_vod;2018.09.03;PID03;26
+Luca Argento;Doctor;SPID21;Saved_vod;2018.09.03;PID04;22
+Hospital Alexander Krankenhaus;Hospital;SPID10;Saved_vod;2018.09.03;PID05;27
+Luca Argento;Doctor;SPID02;Saved_vod;2018.09.03;PID06;26
+Hallmark Clinic;Hospital;SPID10;Submitted_vod;2018.02.12;PID07;10
+Karolinska Hospital;Hospital;SPID16;Submitted_vod;2018.10.12;PID08;17
+Manne J Sundström;Doctor;SPID13;Planned_vod;2018.10.15;PID09;16
+Manne J Sundström;Doctor;SPID15;Planned_vod;2018.10.12;PID10;13
+Leoni Beker;Doctor;SPID04;Submitted_vod;2018.08.17;PID11;12
+Hospital Alexander Krankenhaus;Hospital;SPID03;Planned_vod;2018.08.15;PID01;5
+Ospedale Maggiore;Hospital;SPID03;Submitted_vod;2018.02.14;PID02;28
+Hospital Alexander Krankenhaus;Hospital;SPID06;Saved_vod;2018.03.17;PID03;17
+Stefan Lingsminat;Doctor;SPID25;Submitted_vod;2018.06.27;PID04;26
+Hospital Alexander Krankenhaus;Hospital;SPID23;Submitted_vod;2018.08.17;PID05;8
+Leoni Beker;Doctor;SPID05;Saved_vod;2018.08.10;PID06;9
+Leoni Beker;Doctor;SPID25;Saved_vod;2018.03.10;PID07;21
+Broussais University Hospital;Hospital;SPID28;Saved_vod;2018.08.10;PID08;24
+Hospital Alexander Krankenhaus;Hospital;SPID04;Saved_vod;2018.07.11;PID09;12
+Luca Argento;Doctor;SPID22;Submitted_vod;2018.08.14;PID10;22
+Julian Dupont;Doctor;SPID13;Submitted_vod;2018.06.27;PID11;10
+Ospedale Maggiore;Hospital;SPID13;Submitted_vod;2018.08.14;PID01;23
+Ospedale Maggiore;Hospital;SPID05;Saved_vod;2018.08.14;PID02;15
+Ospedale Maggiore;Hospital;SPID18;Submitted_vod;2018.02.14;PID03;8
+Luca Argento;Doctor;SPID16;Submitted_vod;2018.08.14;PID04;14
+St. John hospital;Hospital;SPID22;Submitted_vod;2018.06.27;PID05;29
+Ewelina Krupowicz;Doctor;SPID28;Planned_vod;2018.08.15;PID06;30
+Luca Argento;Doctor;SPID20;Submitted_vod;2018.08.14;PID07;26
+Cécilia Blanchet;Doctor;SPID16;Saved_vod;2018.08.10;PID08;21
+Central Hospital;Hospital;SPID23;Saved_vod;2018.05.10;PID09;11
+Michele Fruscella;Doctor;SPID28;Saved_vod;2018.08.09;PID10;28
+Broussais University Hospital;Hospital;SPID12;Saved_vod;2018.03.10;PID11;14
+Michele Fruscella;Doctor;SPID09;Submitted_vod;2018.06.27;PID01;13
+Leonie Becker;Doctor;SPID08;Saved_vod;2018.07.11;PID02;8
+Maria Giovanna Ruggeri;Doctor;SPID09;Submitted_vod;2018.06.08;PID03;28
+Hospital Alexander Krankenhaus;Hospital;SPID06;Saved_vod;2018.06.08;PID04;11
+Hospital Alexander Krankenhaus;Hospital;SPID24;Saved_vod;2018.06.15;PID05;29
+Anne Roth;Doctor;SPID07;Saved_vod;2018.05.10;PID06;21
+Naomi Hopkins;Doctor;SPID19;Saved_vod;2018.05.10;PID07;19
+Michele Fruscella;Doctor;SPID17;Saved_vod;2018.06.10;PID08;17
+Leoni Beker;Doctor;SPID14;Submitted_vod;2018.08.31;PID09;30
+Leoni Beker;Doctor;SPID02;Planned_vod;2018.08.30;PID10;12
+Jan Neumann;Doctor;SPID22;Saved_vod;2018.08.24;PID11;17
+Jane White;Doctor;SPID25;Submitted_vod;2018.08.28;PID01;17
+Ewelina Krupowicz;Doctor;SPID09;Submitted_vod;2018.06.11;PID02;21
+Jan Neumann;Doctor;SPID27;Saved_vod;2018.05.29;PID03;16
+Jan Neumann;Doctor;SPID27;Submitted_vod;2018.05.17;PID04;23
+Jan Neumann;Doctor;SPID08;Saved_vod;2018.06.08;PID05;30
+Michele Fruscella;Doctor;SPID17;Saved_vod;2018.05.29;PID06;24
+Michele Fruscella;Doctor;SPID11;Saved_vod;2018.06.07;PID07;25
+Leonie Becker;Doctor;SPID10;Saved_vod;2018.08.18;PID08;9
+Hospital Alexander Krankenhaus;Hospital;SPID18;Saved_vod;2018.08.29;PID09;13
+Hospital Alexander Krankenhaus;Hospital;SPID06;Saved_vod;2018.08.22;PID10;6
+Leonie Becker;Doctor;SPID26;Saved_vod;2018.08.22;PID11;28
+Broussais University Hospital;Hospital;SPID14;Saved_vod;2018.08.29;PID01;29
+Jon Doe;Doctor;SPID14;Submitted_vod;2018.08.29;PID02;26
+Michele Fruscella;Doctor;SPID27;Saved_vod;2018.06.08;PID03;29
+Hospital Alexander Krankenhaus;Hospital;SPID24;Saved_vod;2018.06.08;PID04;10
+Hospital Alexander Krankenhaus;Hospital;SPID28;Planned_vod;2018.05.17;PID05;22
+Robert Adams;Doctor;SPID12;Saved_vod;2018.08.29;PID06;16
+Peak View Hospital;Hospital;SPID04;Saved_vod;2018.08.29;PID07;28
+Jan Neumann;Doctor;SPID25;Submitted_vod;2018.05.17;PID08;17
+Jan Neumann;Doctor;SPID09;Saved_vod;2018.05.17;PID09;26
+Anne Roth;Doctor;SPID12;Saved_vod;2018.06.09;PID10;5
+Leonie Becker;Doctor;SPID01;Submitted_vod;2018.05.15;PID11;23
+Jan Neumann;Doctor;SPID27;Saved_vod;2018.06.11;PID01;18
+Leonie Becker;Doctor;SPID18;Submitted_vod;2018.05.11;PID02;21
+Naomi Hopkins;Doctor;SPID01;Saved_vod;2018.08.18;PID03;5
+Alexia Alarie;Doctor;SPID03;Saved_vod;2018.08.10;PID04;17
+Leroy Meunier;Doctor;SPID22;Saved_vod;2018.06.11;PID05;5
+Leonie Becker;Doctor;SPID26;Saved_vod;2018.08.21;PID06;23
+Ewelina Krupowicz;Doctor;SPID11;Saved_vod;2018.08.21;PID07;12
+S. Gerardo Monza;Hospital;SPID21;Saved_vod;2018.06.04;PID08;15
+Hospital Alexander Krankenhaus;Hospital;SPID24;Submitted_vod;2018.05.17;PID09;30
+Leroy Meunier;Doctor;SPID15;Saved_vod;2018.04.08;PID10;24
+Michele Fruscella;Doctor;SPID06;Submitted_vod;2018.06.11;PID11;10
+Hospital Alexander Krankenhaus;Hospital;SPID09;Submitted_vod;2018.05.17;PID01;8
+Jan Neumann;Doctor;SPID15;Planned_vod;2018.05.17;PID02;5
+Leonie Becker;Doctor;SPID20;Submitted_vod;2018.05.17;PID03;24
+St. John hospital;Hospital;SPID23;Saved_vod;2018.06.08;PID04;8
+Leroy Meunier;Doctor;SPID18;Saved_vod;2018.06.08;PID05;9
+Jan Neumann;Doctor;SPID26;Submitted_vod;2018.04.08;PID06;25
+Hospital Alexander Krankenhaus;Hospital;SPID16;Saved_vod;2018.05.17;PID07;15
+Hospital Alexander Krankenhaus;Hospital;SPID11;Submitted_vod;2018.06.08;PID08;13
+Hospital Alexander Krankenhaus;Hospital;SPID28;Saved_vod;2018.06.09;PID09;21
+Hospital Alexander Krankenhaus;Hospital;SPID20;Saved_vod;2018.06.11;PID10;23
+Massimiliano Nazionale;Doctor;SPID19;Submitted_vod;2018.06.11;PID11;17
+Michele Fruscella;Doctor;SPID03;Submitted_vod;2018.06.11;PID01;14
+Leonie Becker;Doctor;SPID27;Submitted_vod;2018.04.11;PID02;15
+Leonie Becker;Doctor;SPID06;Saved_vod;2018.08.21;PID03;25
+Hospital Alexander Krankenhaus;Hospital;SPID02;Saved_vod;2018.08.18;PID04;26
+Robert Adams;Doctor;SPID23;Saved_vod;2018.08.23;PID05;19
+Naomi Hopkins;Doctor;SPID05;Submitted_vod;2018.08.29;PID06;23
+Eweline Krupowicz;Doctor;SPID12;Submitted_vod;2018.02.21;PID07;16
+Leroy Meunier;Doctor;SPID25;Saved_vod;2018.06.08;PID08;21
+Hospital Alexander Krankenhaus;Hospital;SPID14;Saved_vod;2018.06.11;PID09;28
+Maria Giovanna Ruggeri;Doctor;SPID28;Planned_vod;2018.05.31;PID10;17
+S. Gerardo Monza;Hospital;SPID26;Saved_vod;2018.06.04;PID11;23
+Hospital Alexander Krankenhaus;Hospital;SPID01;Saved_vod;2018.06.05;PID01;30
+Ewelina Krupowicz;Doctor;SPID07;Saved_vod;2018.06.11;PID02;17
+Jan Neumann;Doctor;SPID15;Saved_vod;2018.06.11;PID03;29
+Peter Nürnberger;Doctor;SPID08;Submitted_vod;2018.06.11;PID04;22
+Broussais University Hospital;Hospital;SPID19;Planned_vod;2018.08.21;PID05;23
+Broussais University Hospital;Hospital;SPID07;Saved_vod;2018.08.10;PID06;17
+Lucas Beaumanoir;Doctor;SPID02;Planned_vod;2018.08.21;PID07;6
+Alexia Alarie;Doctor;SPID12;Planned_vod;2018.03.21;PID08;12
+Hospital Alexander Krankenhaus;Hospital;SPID17;Saved_vod;2018.05.08;PID09;7
+Leonie Becker;Doctor;SPID24;Saved_vod;2018.05.09;PID10;30
+Maria Giovanna Ruggeri;Doctor;SPID08;Planned_vod;2018.06.01;PID11;14
+Jan Neumann;Doctor;SPID01;Planned_vod;2018.05.29;PID01;17
+Leonie Becker;Doctor;SPID21;Saved_vod;2018.05.08;PID02;13
+Anne Roth;Doctor;SPID08;Planned_vod;2018.05.30;PID03;24
+Leonie Becker;Doctor;SPID06;Planned_vod;2018.05.16;PID04;17
+Hospital Alexander Krankenhaus;Hospital;SPID11;Saved_vod;2018.05.29;PID05;8
+Leroy Meunier;Doctor;SPID23;Submitted_vod;2018.06.11;PID06;21
+Guglielma Trevisan;Doctor;SPID07;Submitted_vod;2018.05.15;PID07;24
+Nicolette Bruneau;Doctor;SPID11;Saved_vod;2018.08.27;PID08;17
+Benoît Bellegarde;Doctor;SPID03;Submitted_vod;2018.08.27;PID09;10
+Alexia Alarie;Doctor;SPID08;Saved_vod;2018.08.29;PID10;10
+Alberto Fonzi;Doctor;SPID05;Saved_vod;2018.08.27;PID11;28
+Iseult Bélanger;Doctor;SPID11;Planned_vod;2018.08.31;PID01;14
+Nicolette Bruneau;Doctor;SPID10;Submitted_vod;2018.08.27;PID01;24
+Luca Argento;Doctor;SPID04;Submitted_vod;2018.08.30;PID02;11
+Hospital Alexander Krankenhaus;Hospital;SPID21;Submitted_vod;2018.05.14;PID03;15
+Hospital Alexander Krankenhaus;Hospital;SPID27;Saved_vod;2018.08.22;PID04;11
+Jan Neumann;Doctor;SPID17;Submitted_vod;2018.06.11;PID05;25
+Ann Brown;Doctor;SPID05;Submitted_vod;2018.05.15;PID06;25
+Leonie Becker;Doctor;SPID10;Submitted_vod;2018.08.28;PID07;15
+Michele Fruscella;Doctor;SPID26;Submitted_vod;2018.05.22;PID08;6
+Hospital Alexander Krankenhaus;Hospital;SPID03;Planned_vod;2018.05.18;PID09;20
+Hospital Alexander Krankenhaus;Hospital;SPID02;Submitted_vod;2018.04.15;PID10;5
+Hospital Alexander Krankenhaus;Hospital;SPID17;Submitted_vod;2018.04.11;PID11;26
+Hospital Alexander Krankenhaus;Hospital;SPID19;Submitted_vod;2018.05.15;PID01;28
+Leonie Becker;Doctor;SPID14;Planned_vod;2018.05.16;PID02;30
+Hospital Alexander Krankenhaus;Hospital;SPID13;Planned_vod;2018.05.15;PID03;18
+Leonie Becker;Doctor;SPID20;Saved_vod;2018.08.22;PID04;9
+Hospital Alexander Krankenhaus;Hospital;SPID13;Submitted_vod;2018.05.15;PID05;19
+Jan Neumann;Doctor;SPID17;Submitted_vod;2018.05.17;PID06;12
+Leonie Becker;Doctor;SPID01;Submitted_vod;2018.05.15;PID07;29
+Leonie Becker;Doctor;SPID16;Submitted_vod;2018.04.11;PID08;10
+Hospital Alexander Krankenhaus;Hospital;SPID24;Planned_vod;2018.05.16;PID09;5
+Guglielma Trevisan;Doctor;SPID07;Submitted_vod;2018.05.15;PID10;30
+Sarah Moore;Doctor;SPID21;Submitted_vod;2018.05.11;PID11;21
+Anne Roth;Doctor;SPID10;Submitted_vod;2018.05.11;PID01;27
+Hospital Alexander Krankenhaus;Hospital;SPID09;Submitted_vod;2018.05.11;PID02;15
+Jon Doe;Doctor;SPID16;Submitted_vod;2018.08.28;PID03;17
+St. John hospital;Hospital;SPID25;Submitted_vod;2018.08.28;PID04;16
+Broussais University Hospital;Hospital;SPID26;Saved_vod;2018.08.29;PID05;15
+Javier Espinoza;Doctor;SPID18;Submitted_vod;2018.05.15;PID06;11
+Hôpital Saint-Louis;Hospital;SPID01;Submitted_vod;2018.08.18;PID07;10
+Michele Fruscella;Doctor;SPID15;Submitted_vod;2018.04.22;PID08;26
+Leroy Meunier;Doctor;SPID14;Submitted_vod;2018.08.28;PID09;9
+Anne Roth;Doctor;SPID02;Submitted_vod;2018.05.17;PID10;7
+Broussais University Hospital;Hospital;SPID04;Submitted_vod;2018.08.30;PID11;16
+Jan Neumann;Doctor;SPID19;Submitted_vod;2018.05.17;PID01;5
+Leonie Becker;Doctor;SPID07;Planned_vod;2018.05.15;PID02;23
+Hospital Alexander Krankenhaus;Hospital;SPID20;Saved_vod;2018.06.12;PID03;5
+Robert Adams;Doctor;SPID18;Saved_vod;2018.08.24;PID04;20
+Hôpital Saint-Louis;Hospital;SPID12;Planned_vod;2018.08.25;PID05;26
+Alexia Alarie;Doctor;SPID05;Saved_vod;2018.08.29;PID06;21
+Hospital Alexander Krankenhaus;Hospital;SPID04;Saved_vod;2018.08.21;PID07;25
+Alexia Alarie;Doctor;SPID22;Saved_vod;2018.08.29;PID08;12
+Leonie Becker;Doctor;SPID19;Saved_vod;2018.08.24;PID09;28
+Iseult Bélanger;Doctor;SPID22;Planned_vod;2018.08.20;PID10;29
+Leonie Becker;Doctor;SPID23;Submitted_vod;2018.05.15;PID11;30
+Hospital Alexander Krankenhaus;Hospital;SPID20;Saved_vod;2018.05.22;PID01;22
+Ewelina Krupowicz;Doctor;SPID24;Saved_vod;2018.08.29;PID01;29
+Luca Argento;Doctor;SPID15;Submitted_vod;2018.08.30;PID01;22
+Michele Fruscella;Doctor;SPID13;Saved_vod;2018.05.28;PID02;20
+Michele Fruscella;Doctor;SPID21;Saved_vod;2018.06.01;PID03;17
+Jan Neumann;Doctor;SPID21;Planned_vod;2018.05.18;PID04;27
+Hospital Alexander Krankenhaus;Hospital;SPID10;Submitted_vod;2018.04.14;PID05;25
+Maria Giovanna Ruggeri;Doctor;SPID02;Saved_vod;2018.06.01;PID06;8
+Leroy Meunier;Doctor;SPID10;Saved_vod;2018.05.23;PID07;21
+St. John hospital;Hospital;SPID16;Saved_vod;2018.06.16;PID08;27
+Hospital Alexander Krankenhaus;Hospital;SPID13;Submitted_vod;2018.05.22;PID09;11
+Michele Fruscella;Doctor;SPID15;Saved_vod;2018.06.18;PID10;10
+Massimiliano Nazionale;Doctor;SPID04;Submitted_vod;2018.06.14;PID11;18
+Michele Fruscella;Doctor;SPID03;Submitted_vod;2018.04.18;PID01;12
+Maria Giovanna Ruggeri;Doctor;SPID03;Submitted_vod;2018.06.04;PID02;15
+Hospital Alexander Krankenhaus;Hospital;SPID06;Saved_vod;2018.06.01;PID03;23
+Peter Nürnberger;Doctor;SPID25;Planned_vod;2018.06.15;PID04;11
+Michele Fruscella;Doctor;SPID23;Saved_vod;2018.06.01;PID05;22
+Jan Neumann;Doctor;SPID05;Submitted_vod;2018.04.04;PID06;19
+S. Gerardo Monza;Hospital;SPID25;Saved_vod;2018.06.01;PID07;13
+Hospital Alexander Krankenhaus;Hospital;SPID28;Submitted_vod;2018.06.04;PID08;14
+Peter Nürnberger;Doctor;SPID04;Submitted_vod;2018.06.14;PID09;29
+Henry Smith;Doctor;SPID22;Submitted_vod;2018.06.14;PID10;24
+Michele Fruscella;Doctor;SPID13;Saved_vod;2018.06.01;PID11;5
+Leroy Meunier;Doctor;SPID13;Planned_vod;2018.06.22;PID01;20
+Hospital Alexander Krankenhaus;Hospital;SPID05;Submitted_vod;2018.06.14;PID02;7
+Leo Wood;Doctor;SPID18;Submitted_vod;2018.06.14;PID03;19
+Stefan Lingsminat;Doctor;SPID16;Submitted_vod;2018.06.09;PID04;22
+Hospital Alexander Krankenhaus;Hospital;SPID22;Submitted_vod;2018.06.04;PID05;24
+Anne Roth;Doctor;SPID28;Submitted_vod;2018.04.04;PID06;12
+Leonie Becker;Doctor;SPID20;Saved_vod;2018.08.29;PID07;5
+Hospital Alexander Krankenhaus;Hospital;SPID16;Saved_vod;2018.09.03;PID08;23
+Lucas Beaumanoir;Doctor;SPID23;Submitted_vod;2018.08.19;PID09;13
+Luca Argento;Doctor;SPID28;Submitted_vod;2018.08.29;PID10;20
+Broussais University Hospital;Hospital;SPID12;Saved_vod;2018.08.29;PID11;12
+Leonie Becker;Doctor;SPID09;Saved_vod;2018.08.29;PID01;20
+Hospital Alexander Krankenhaus;Hospital;SPID08;Saved_vod;2018.08.29;PID02;13
+Alexia Alarie;Doctor;SPID09;Saved_vod;2018.08.27;PID03;5
+Broussais University Hospital;Hospital;SPID06;Saved_vod;2018.08.27;PID04;11
+Julian Dupont;Doctor;SPID24;Submitted_vod;2018.08.21;PID05;6
+Leonie Becker;Doctor;SPID07;Submitted_vod;2018.08.21;PID06;6
+Michele Fruscella;Doctor;SPID19;Planned_vod;2018.08.30;PID07;24
+Leonie Becker;Doctor;SPID17;Saved_vod;2018.08.29;PID08;29
+Peak View Hospital;Hospital;SPID14;Saved_vod;2018.08.24;PID09;23
+Luca Argento;Doctor;SPID02;Saved_vod;2018.08.29;PID10;14
+Leonie Becker;Doctor;SPID22;Saved_vod;2018.09.03;PID11;14
+St. John hospital;Hospital;SPID25;Planned_vod;2018.08.30;PID01;13
+Hospital Alexander Krankenhaus;Hospital;SPID09;Saved_vod;2018.08.29;PID02;21
+Hospital Alexander Krankenhaus;Hospital;SPID27;Saved_vod;2018.08.29;PID03;27
+Michele Fruscella;Doctor;SPID27;Saved_vod;2018.06.18;PID04;20
+Michele Fruscella;Doctor;SPID08;Saved_vod;2018.06.18;PID05;9
+Michele Fruscella;Doctor;SPID17;Saved_vod;2018.06.18;PID06;22
+St. John hospital;Hospital;SPID11;Submitted_vod;2018.06.18;PID07;23
+Jan Neumann;Doctor;SPID10;Submitted_vod;2018.06.05;PID08;28
+Michele Fruscella;Doctor;SPID18;Saved_vod;2018.06.21;PID09;11
+Julian Dupont;Doctor;SPID06;Saved_vod;2018.06.21;PID10;7
+Michele Fruscella;Doctor;SPID26;Saved_vod;2018.06.21;PID11;6
+Luca Toni;Doctor;SPID14;Saved_vod;2018.08.27;PID01;11
+Lucas Beaumanoir;Doctor;SPID14;Submitted_vod;2018.08.18;PID02;13
+Hospital Alexander Krankenhaus;Hospital;SPID27;Saved_vod;2018.08.24;PID03;20
+Iseult Bélanger;Doctor;SPID24;Submitted_vod;2018.08.31;PID04;12
+Ewelina Krupowicz;Doctor;SPID28;Saved_vod;2018.06.21;PID05;15
+Michele Fruscella;Doctor;SPID12;Saved_vod;2018.06.18;PID06;14
+Julian Dupont;Doctor;SPID04;Saved_vod;2018.06.19;PID07;21
+Julian Dupont;Doctor;SPID25;Saved_vod;2018.06.19;PID08;16
+Stefan Lingsminat;Doctor;SPID09;Planned_vod;2018.06.25;PID09;27
+Hospital Alexander Krankenhaus;Hospital;SPID12;Saved_vod;2018.06.08;PID10;30
+Michele Fruscella;Doctor;SPID01;Saved_vod;2018.06.11;PID11;11
+Anne Roth;Doctor;SPID27;Submitted_vod;2018.05.10;PID01;27
+Hospital Alexander Krankenhaus;Hospital;SPID18;Planned_vod;2018.05.29;PID02;17
+Leonie Becker;Doctor;SPID01;Saved_vod;2018.05.10;PID03;21
+Anne Roth;Doctor;SPID03;Saved_vod;2018.05.10;PID04;10
+Hospital Alexander Krankenhaus;Hospital;SPID22;Saved_vod;2018.05.10;PID05;10
+Hospital Alexander Krankenhaus;Hospital;SPID26;Submitted_vod;2018.08.21;PID06;23
+Hospital Alexander Krankenhaus;Hospital;SPID11;Submitted_vod;2018.06.11;PID07;15
+Anne Roth;Doctor;SPID21;Saved_vod;2018.05.10;PID08;18
+Hospital Alexander Krankenhaus;Hospital;SPID24;Submitted_vod;2018.05.11;PID09;21
+Anne Roth;Doctor;SPID15;Submitted_vod;2018.06.11;PID10;22
+Leonie Becker;Doctor;SPID06;Submitted_vod;2018.05.13;PID11;11
+Michele Fruscella;Doctor;SPID09;Saved_vod;2018.06.11;PID01;30
+Leonie Becker;Doctor;SPID15;Submitted_vod;2018.05.15;PID02;12
+Hospital Alexander Krankenhaus;Hospital;SPID20;Planned_vod;2018.05.16;PID03;19
+Ewelina Krupowicz;Doctor;SPID23;Saved_vod;2018.08.21;PID04;18
+Lucas Beaumanoir;Doctor;SPID18;Planned_vod;2018.08.25;PID05;12
+Hospital Alexander Krankenhaus;Hospital;SPID26;Saved_vod;2018.08.23;PID06;9
+Hospital Alexander Krankenhaus;Hospital;SPID16;Saved_vod;2018.08.24;PID07;20
+Ospedale Maggiore;Hospital;SPID11;Submitted_vod;2018.08.29;PID08;30
+Sarah Moore;Doctor;SPID28;Submitted_vod;2018.05.15;PID09;9
+Alexia Alarie;Doctor;SPID20;Submitted_vod;2018.08.30;PID10;11
+Javier Espinoza;Doctor;SPID19;Submitted_vod;2018.05.15;PID11;20
+Javier Espinoza;Doctor;SPID03;Submitted_vod;2018.05.15;PID01;29
+Hospital Alexander Krankenhaus;Hospital;SPID27;Saved_vod;2018.06.11;PID02;24
+Leonie Becker;Doctor;SPID06;Submitted_vod;2018.05.14;PID03;17
+Hospital Alexander Krankenhaus;Hospital;SPID02;Submitted_vod;2018.05.17;PID04;25
+Leonie Becker;Doctor;SPID23;Submitted_vod;2018.05.15;PID05;21
+Leonie Becker;Doctor;SPID05;Submitted_vod;2018.05.15;PID06;22
+Hospital Alexander Krankenhaus;Hospital;SPID12;Submitted_vod;2018.05.15;PID07;12
+Hospital Alexander Krankenhaus;Hospital;SPID25;Submitted_vod;2018.05.15;PID08;28
+Jan Neumann;Doctor;SPID14;Saved_vod;2018.06.12;PID09;14
+Jan Neumann;Doctor;SPID28;Submitted_vod;2018.05.22;PID10;26
+Guglielma Trevisan;Doctor;SPID26;Submitted_vod;2018.05.15;PID11;17
+Hospital Alexander Krankenhaus;Hospital;SPID01;Submitted_vod;2018.05.15;PID01;18
+Guglielma Trevisan;Doctor;SPID07;Submitted_vod;2018.05.15;PID02;18
+Hospital Alexander Krankenhaus;Hospital;SPID15;Submitted_vod;2018.05.22;PID03;15
+Hospital Alexander Krankenhaus;Hospital;SPID08;Submitted_vod;2018.05.17;PID04;6
+Hospital Alexander Krankenhaus;Hospital;SPID19;Submitted_vod;2018.05.13;PID05;26
+Hospital Alexander Krankenhaus;Hospital;SPID07;Saved_vod;2018.05.09;PID06;23
+Hospital Alexander Krankenhaus;Hospital;SPID02;Saved_vod;2018.05.15;PID07;20
+Jan Neumann;Doctor;SPID12;Submitted_vod;2018.05.17;PID08;10
+Hospital Alexander Krankenhaus;Hospital;SPID17;Saved_vod;2018.05.15;PID09;22
+Jan Neumann;Doctor;SPID24;Submitted_vod;2018.05.17;PID10;12
+Hospital Alexander Krankenhaus;Hospital;SPID08;Submitted_vod;2018.05.15;PID11;30
+Hospital Alexander Krankenhaus;Hospital;SPID01;Submitted_vod;2018.05.15;PID01;23
+Hospital Alexander Krankenhaus;Hospital;SPID21;Saved_vod;2018.05.18;PID02;6
+Hospital Alexander Krankenhaus;Hospital;SPID08;Submitted_vod;2018.05.17;PID03;21
+Alexia Alarie;Doctor;SPID06;Submitted_vod;2018.08.31;PID04;12
+Leonie Becker;Doctor;SPID11;Submitted_vod;2018.05.15;PID05;22
+Jan Neumann;Doctor;SPID23;Submitted_vod;2018.05.22;PID06;8
+Hospital Alexander Krankenhaus;Hospital;SPID07;Submitted_vod;2018.08.28;PID07;21
+Leonie Becker;Doctor;SPID11;Submitted_vod;2018.05.15;PID08;26
+Jan Neumann;Doctor;SPID03;Saved_vod;2018.05.22;PID09;26
+Anne Roth;Doctor;SPID08;Saved_vod;2018.05.23;PID10;24
+Peter Nürnberger;Doctor;SPID05;Planned_vod;2018.06.21;PID11;25
+Stefan Lingsminat;Doctor;SPID11;Saved_vod;2018.06.16;PID01;21
+Sven Pernerstorfer;Doctor;SPID10;Submitted_vod;2018.06.14;PID02;27
+Leo Wood;Doctor;SPID04;Submitted_vod;2018.06.13;PID03;19
+Hospital Alexander Krankenhaus;Hospital;SPID21;Saved_vod;2018.05.23;PID04;17
+Michele Fruscella;Doctor;SPID27;Saved_vod;2018.06.01;PID05;11
+S. Gerardo Monza;Hospital;SPID17;Saved_vod;2018.05.31;PID06;5
+Michele Fruscella;Doctor;SPID05;Submitted_vod;2018.06.04;PID07;27
+Henry Smith;Doctor;SPID10;Submitted_vod;2018.06.14;PID08;14
+Maria Giovanna Ruggeri;Doctor;SPID26;Submitted_vod;2018.06.14;PID09;21
+Maria Giovanna Ruggeri;Doctor;SPID03;Saved_vod;2018.05.31;PID10;27
+Hospital Alexander Krankenhaus;Hospital;SPID02;Saved_vod;2018.06.14;PID11;20
+St. John hospital;Hospital;SPID17;Submitted_vod;2018.06.09;PID01;12
+Peter Nürnberger;Doctor;SPID19;Planned_vod;2018.06.14;PID01;14
+Ann Brown;Doctor;SPID14;Submitted_vod;2018.06.14;PID02;9
+Peter Nürnberger;Doctor;SPID13;Planned_vod;2018.06.18;PID03;12
+Hospital Alexander Krankenhaus;Hospital;SPID20;Submitted_vod;2018.06.13;PID04;5
+Leroy Meunier;Doctor;SPID13;Saved_vod;2018.05.25;PID05;25
+S. Gerardo Monza;Hospital;SPID17;Submitted_vod;2018.06.04;PID06;11
+Jan Neumann;Doctor;SPID01;Submitted_vod;2018.06.04;PID07;27
+Hospital Alexander Krankenhaus;Hospital;SPID16;Submitted_vod;2018.06.05;PID08;30
+Michele Fruscella;Doctor;SPID24;Submitted_vod;2018.06.18;PID09;13
+St. John hospital;Hospital;SPID07;Saved_vod;2018.06.19;PID10;15
+Hospital Alexander Krankenhaus;Hospital;SPID21;Planned_vod;2018.06.21;PID11;19
+Michele Fruscella;Doctor;SPID10;Saved_vod;2018.06.18;PID01;16
+Michele Fruscella;Doctor;SPID09;Saved_vod;2018.06.19;PID02;12
+Michele Fruscella;Doctor;SPID16;Saved_vod;2018.06.18;PID03;22
+Michele Fruscella;Doctor;SPID25;Saved_vod;2018.06.21;PID04;11
+Ewelina Krupowicz;Doctor;SPID26;Planned_vod;2018.06.22;PID05;13
+St. Martin Clinique;Hospital;SPID18;Saved_vod;2018.06.21;PID06;13
+St. John hospital;Hospital;SPID01;Saved_vod;2018.06.21;PID07;10
+St. John hospital;Hospital;SPID15;Saved_vod;2018.06.18;PID08;21
+Julian Dupont;Doctor;SPID14;Saved_vod;2018.06.19;PID09;13
+Julian Dupont;Doctor;SPID02;Saved_vod;2018.06.21;PID10;13
+St. John hospital;Hospital;SPID04;Planned_vod;2018.06.25;PID11;24
+Hôpital Saint-Louis;Hospital;SPID19;Planned_vod;2018.08.21;PID01;13
+St. John hospital;Hospital;SPID07;Saved_vod;2018.06.21;PID02;29
+Leoni Beker;Doctor;SPID20;Saved_vod;2018.08.23;PID03;21
+Benoît Bellegarde;Doctor;SPID18;Submitted_vod;2018.08.27;PID04;25
+Hospital Alexander Krankenhaus;Hospital;SPID12;Saved_vod;2018.08.21;PID05;30
+Hôpital Saint-Louis;Hospital;SPID05;Submitted_vod;2018.08.19;PID06;5
+Leoni Beker;Doctor;SPID04;Submitted_vod;2018.07.09;PID07;21
+Michele Fruscella;Doctor;SPID22;Saved_vod;2018.08.06;PID08;18
+St. John hospital;Hospital;SPID19;Submitted_vod;2018.08.04;PID09;23
+Anne Roth;Doctor;SPID22;Saved_vod;2018.07.19;PID10;28
+Leonie Becker;Doctor;SPID23;Submitted_vod;2018.07.16;PID11;21
+Anthony Webster;Doctor;SPID20;Saved_vod;2018.07.11;PID01;5
+Sean Dunne;Doctor;SPID24;Saved_vod;2018.03.11;PID02;10
+Hospital Alexander Krankenhaus;Hospital;SPID15;Saved_vod;2018.07.19;PID03;8
+Dante Signorini;Doctor;SPID13;Submitted_vod;2018.07.20;PID04;10
+Richard Savage;Doctor;SPID21;Saved_vod;2018.07.11;PID05;18
+Hospital Alexander Krankenhaus;Hospital;SPID21;Saved_vod;2018.07.13;PID06;28
+Hospital Alexander Krankenhaus;Hospital;SPID10;Saved_vod;2018.06.28;PID07;12
+Broussais University Hospital;Hospital;SPID02;Submitted_vod;2018.08.07;PID08;10
+Chilton Memorial Hospital;Hospital;SPID10;Saved_vod;2018.07.13;PID09;26
+Jordi Vidal;Doctor;SPID16;Submitted_vod;2018.07.18;PID10;10
+Hospital de Puerto Real;Hospital;SPID13;Submitted_vod;2018.07.18;PID11;11
+Hospital Alexander Krankenhaus;Hospital;SPID15;Saved_vod;2018.03.05;PID01;29
+Ann Brown;Doctor;SPID04;Saved_vod;2018.07.25;PID01;11
+Guingamp Hospital;Hospital;SPID03;Saved_vod;2018.03.11;PID01;24
+Hospital Alexander Krankenhaus;Hospital;SPID03;Saved_vod;2018.07.31;PID02;23
+Barbara Parodi;Doctor;SPID06;Saved_vod;2018.07.18;PID03;11
+Anne Roth;Doctor;SPID25;Saved_vod;2018.07.19;PID04;27
+Ospedale Maggiore;Hospital;SPID23;Saved_vod;2018.03.18;PID05;21
+Hospital Alexander Krankenhaus;Hospital;SPID05;Saved_vod;2018.07.19;PID06;10
+Ann Brown;Doctor;SPID25;Saved_vod;2018.07.25;PID07;20
+Solenn Desmarais;Doctor;SPID28;Saved_vod;2018.07.11;PID08;19
+Leonie Becker;Doctor;SPID04;Saved_vod;2018.07.13;PID09;22
+Hospital Alexander Krankenhaus;Hospital;SPID22;Saved_vod;2018.03.13;PID10;8
+St. John hospital;Hospital;SPID13;Planned_vod;2018.06.29;PID11;19
+Michele Fruscella;Doctor;SPID13;Submitted_vod;2018.07.18;PID01;13
+Dante Signorini;Doctor;SPID05;Submitted_vod;2018.07.20;PID02;15
+Hospital Alexander Krankenhaus;Hospital;SPID18;Saved_vod;2018.07.18;PID03;24
+Hôpital Saint-Louis;Hospital;SPID16;Saved_vod;2018.07.09;PID04;20
+Hospital de Puerto Real;Hospital;SPID22;Submitted_vod;2018.03.18;PID05;7
+Tiphaine Thibodeau;Doctor;SPID28;Planned_vod;2018.07.16;PID06;16
+Hospital Alexander Krankenhaus;Hospital;SPID20;Submitted_vod;2018.06.26;PID07;12
+Leonie Becker;Doctor;SPID16;Saved_vod;2018.06.26;PID08;9
+Gilbert Gauthier;Doctor;SPID23;Planned_vod;2018.06.27;PID09;10
+Jordi Vidal;Doctor;SPID28;Submitted_vod;2018.07.18;PID10;20
+Hospital de Puerto Real;Hospital;SPID12;Submitted_vod;2018.07.16;PID11;6
+Tiphaine Thibodeau;Doctor;SPID09;Planned_vod;2018.07.18;PID01;29
+Michele Fruscella;Doctor;SPID08;Submitted_vod;2018.07.18;PID02;24
+Michele Fruscella;Doctor;SPID09;Saved_vod;2018.07.31;PID03;10
+Solenn Desmarais;Doctor;SPID06;Saved_vod;2018.07.11;PID04;30
+Chilton Memorial Hospital;Hospital;SPID24;Saved_vod;2018.07.11;PID05;14
+Michele Fruscella;Doctor;SPID07;Saved_vod;2018.07.31;PID06;20
+Chilton Memorial Hospital;Hospital;SPID19;Submitted_vod;2018.07.11;PID07;21
+Hospital Alexander Krankenhaus;Hospital;SPID17;Saved_vod;2018.07.25;PID08;11
+Leonie Becker;Doctor;SPID14;Saved_vod;2018.07.18;PID09;11
+Dante Signorini;Doctor;SPID02;Saved_vod;2018.07.24;PID10;7
+Ann Brown;Doctor;SPID22;Submitted_vod;2018.08.06;PID11;18
+Broussais University Hospital;Hospital;SPID25;Saved_vod;2018.08.06;PID01;16
+Ann Brown;Doctor;SPID09;Saved_vod;2018.07.31;PID02;27
+Jean-Luc Besnard;Doctor;SPID27;Saved_vod;2018.07.09;PID03;11
+S. Gerardo Monza;Hospital;SPID27;Submitted_vod;2018.07.18;PID04;12
+Ewelina Krupowicz;Doctor;SPID08;Planned_vod;2018.06.27;PID05;5
+Richard Savage;Doctor;SPID17;Saved_vod;2018.07.13;PID06;30
+Hospital Alexander Krankenhaus;Hospital;SPID11;Submitted_vod;2018.08.01;PID07;27
+Anthony Webster;Doctor;SPID10;Saved_vod;2018.07.11;PID08;19
+Michele Fruscella;Doctor;SPID18;Planned_vod;2018.06.29;PID09;9
+Anthony Webster;Doctor;SPID06;Saved_vod;2018.07.13;PID10;23
+Hôpital Européen Georges Pompidou;Hospital;SPID26;Submitted_vod;2018.07.10;PID11;17
+Anthony Webster;Doctor;SPID14;Submitted_vod;2018.07.11;PID01;20
+Ewelina Krupowicz;Doctor;SPID14;Planned_vod;2018.06.27;PID02;6
+Hospital Alexander Krankenhaus;Hospital;SPID27;Saved_vod;2018.06.26;PID03;15
+Leonie Becker;Doctor;SPID24;Saved_vod;2018.06.26;PID04;24
+Ewelina Krupowicz;Doctor;SPID28;Submitted_vod;2018.07.13;PID05;12
+Ann Brown;Doctor;SPID12;Submitted_vod;2018.03.17;PID06;22
+Leonie Becker;Doctor;SPID04;Submitted_vod;2018.06.26;PID07;19
+St. John hospital;Hospital;SPID25;Submitted_vod;2018.06.27;PID08;24
+Anne Roth;Doctor;SPID09;Saved_vod;2018.07.19;PID09;16
+Berkshire Independent Hospital;Hospital;SPID12;Saved_vod;2018.07.03;PID10;25
+Ann Brown;Doctor;SPID01;Submitted_vod;2018.08.01;PID11;23
+Gonzalo Redriguez;Doctor;SPID27;Submitted_vod;2018.07.16;PID01;5
+Iseult Bélanger;Doctor;SPID18;Planned_vod;2018.07.09;PID02;10
+Sean Dunne;Doctor;SPID01;Saved_vod;2018.03.11;PID03;9
+Leonie Becker;Doctor;SPID03;Submitted_vod;2018.06.26;PID04;15
+Julian Dupont;Doctor;SPID22;Submitted_vod;2018.08.04;PID05;15
+Hospital Alexander Krankenhaus;Hospital;SPID26;Saved_vod;2018.06.26;PID06;14
+Leonie Becker;Doctor;SPID11;Planned_vod;2018.06.26;PID07;17
+Ann Brown;Doctor;SPID21;Submitted_vod;2018.08.01;PID08;10
+Anne Roth;Doctor;SPID24;Saved_vod;2018.07.19;PID09;28
+Hospital Alexander Krankenhaus;Hospital;SPID15;Saved_vod;2018.07.19;PID10;15
+Sven Pernerstorfer;Doctor;SPID06;Saved_vod;2018.06.26;PID11;17
+Hospital Alexander Krankenhaus;Hospital;SPID09;Saved_vod;2018.07.19;PID01;14
+Ann Brown;Doctor;SPID15;Saved_vod;2018.07.25;PID02;21
+Michele Fruscella;Doctor;SPID20;Planned_vod;2018.06.29;PID03;6
+S. Gerardo Monza;Hospital;SPID23;Saved_vod;2018.08.06;PID04;24
+Leonie Becker;Doctor;SPID18;Planned_vod;2018.07.04;PID05;12
+Leonie Becker;Doctor;SPID26;Saved_vod;2018.06.29;PID06;27
+Naomi Hopkins;Doctor;SPID16;Saved_vod;2018.07.03;PID07;9
+St. John hospital;Hospital;SPID11;Saved_vod;2018.06.27;PID08;8
+Leonie Becker;Doctor;SPID28;Planned_vod;2018.06.28;PID09;11
+Sam Daniels;Doctor;SPID20;Planned_vod;2018.06.29;PID10;14
+Leonie Becker;Doctor;SPID19;Submitted_vod;2018.07.13;PID11;15
+Eweline Krupowicz;Doctor;SPID03;Saved_vod;2018.06.26;PID01;26
+S. Gerardo Monza;Hospital;SPID27;Saved_vod;2018.07.31;PID02;11
+Julian Dupont;Doctor;SPID06;Saved_vod;2018.07.02;PID03;28
+St. John hospital;Hospital;SPID02;Saved_vod;2018.07.02;PID04;17
+S. Gerardo Monza;Hospital;SPID23;Submitted_vod;2018.08.07;PID05;5
+Alexia Alarie;Doctor;SPID05;Submitted_vod;2018.08.07;PID06;11
+Peter Nürnberger;Doctor;SPID12;Saved_vod;2018.06.15;PID07;6
+Hospital Alexander Krankenhaus;Hospital;SPID25;Planned_vod;2018.06.26;PID08;20
+Michele Fruscella;Doctor;SPID14;Submitted_vod;2018.08.07;PID09;27
+Michele Fruscella;Doctor;SPID28;Saved_vod;2018.07.02;PID10;9
+Ewelina Krupowicz;Doctor;SPID26;Planned_vod;2018.06.26;PID11;30
+Hospital Alexander Krankenhaus;Hospital;SPID01;Saved_vod;2018.08.08;PID01;20
+Leonie Becker;Doctor;SPID07;Saved_vod;2018.08.08;PID02;9
+Eweline Krupowicz;Doctor;SPID15;Saved_vod;2018.06.29;PID03;25
+Leonie Becker;Doctor;SPID08;Saved_vod;2018.07.02;PID04;22
+S. Gerardo Monza;Hospital;SPID19;Submitted_vod;2018.08.06;PID05;21
+Leonie Becker;Doctor;SPID07;Saved_vod;2018.07.03;PID06;21
+Hospital Alexander Krankenhaus;Hospital;SPID02;Submitted_vod;2018.08.01;PID07;14
+Leonie Becker;Doctor;SPID12;Saved_vod;2018.06.28;PID08;26
+Alexia Alarie;Doctor;SPID17;Saved_vod;2018.07.25;PID09;30
+Iseult Bélanger;Doctor;SPID24;Planned_vod;2018.07.12;PID10;7
+Robert Adams;Doctor;SPID08;Planned_vod;2018.07.23;PID11;7
+Ann Brown;Doctor;SPID01;Submitted_vod;2018.08.01;PID01;5
+Luca Argento;Doctor;SPID21;Submitted_vod;2018.07.26;PID02;22
+Hospital Alexander Krankenhaus;Hospital;SPID08;Submitted_vod;2018.08.01;PID03;6
+Hospital Alexander Krankenhaus;Hospital;SPID06;Submitted_vod;2018.07.16;PID04;9
+Naomi Hopkins;Doctor;SPID11;Saved_vod;2018.07.25;PID05;26
+Hospital Alexander Krankenhaus;Hospital;SPID23;Saved_vod;2018.07.16;PID06;18
+Anatole Bescond;Doctor;SPID07;Submitted_vod;2018.07.09;PID07;25
+Hospital Alexander Krankenhaus;Hospital;SPID11;Saved_vod;2018.06.29;PID08;24
+Robert Adams;Doctor;SPID03;Saved_vod;2018.08.02;PID09;8
+Leonie Becker;Doctor;SPID08;Saved_vod;2018.07.02;PID10;15
+Hospital Alexander Krankenhaus;Hospital;SPID05;Saved_vod;2018.07.03;PID11;13
+Tiphaine Thibodeau;Doctor;SPID11;Submitted_vod;2018.07.10;PID01;15
+Lucas Beaumanoir;Doctor;SPID10;Saved_vod;2018.07.09;PID02;26
+St. John hospital;Hospital;SPID04;Submitted_vod;2018.07.16;PID03;5
+Hospital Alexander Krankenhaus;Hospital;SPID21;Saved_vod;2018.07.02;PID04;28
+S. Gerardo Monza;Hospital;SPID27;Saved_vod;2018.07.31;PID05;30
+Hospital Alexander Krankenhaus;Hospital;SPID17;Submitted_vod;2018.08.01;PID06;9
+Karen Bell;Doctor;SPID05;Planned_vod;2018.07.30;PID07;14
+St. John hospital;Hospital;SPID10;Saved_vod;2018.06.28;PID08;19
+Michele Fruscella;Doctor;SPID26;Saved_vod;2018.06.28;PID09;22
+Hospital Alexander Krankenhaus;Hospital;SPID03;Planned_vod;2018.07.04;PID10;21
+Hospital Alexander Krankenhaus;Hospital;SPID02;Saved_vod;2018.07.02;PID11;21
+Leonie Becker;Doctor;SPID17;Saved_vod;2018.07.02;PID01;15
+Leonie Becker;Doctor;SPID19;Saved_vod;2018.07.03;PID02;8
+David Barnard;Doctor;SPID14;Planned_vod;2018.07.30;PID03;21
+Graeme Barber;Doctor;SPID13;Planned_vod;2018.08.14;PID04;8
+Leoni Beker;Doctor;SPID20;Planned_vod;2018.08.01;PID05;29
+Jesualdo Bustos Muñiz;Doctor;SPID13;Saved_vod;2018.08.21;PID06;13
+Leoni Beker;Doctor;SPID17;Planned_vod;2018.08.02;PID07;30
+Graeme Barber;Doctor;SPID01;Planned_vod;2018.09.03;PID08;23
+Javier Espinoza;Doctor;SPID16;Planned_vod;2018.06.26;PID09;13
+Michele Fruscella;Doctor;SPID24;Planned_vod;2018.06.28;PID10;5
+Michele Fruscella;Doctor;SPID07;Submitted_vod;2018.06.27;PID11;27
+Leonie Becker;Doctor;SPID21;Planned_vod;2018.06.25;PID01;7
+Hospital Alexander Krankenhaus;Hospital;SPID10;Saved_vod;2018.07.19;PID01;5
+Anne Roth;Doctor;SPID09;Saved_vod;2018.07.19;PID02;10
+Ewelina Krupowicz;Doctor;SPID16;Saved_vod;2018.06.15;PID03;13
+Stefan Lingsminat;Doctor;SPID25;Planned_vod;2018.06.27;PID04;24
+Leonie Becker;Doctor;SPID26;Submitted_vod;2018.06.28;PID05;17
+Ewelina Krupowicz;Doctor;SPID18;Planned_vod;2018.08.10;PID06;8
+Broussais University Hospital;Hospital;SPID01;Submitted_vod;2018.08.08;PID07;30
+Leoni Beker;Doctor;SPID15;Submitted_vod;2018.08.08;PID08;13
+Hospital Alexander Krankenhaus;Hospital;SPID14;Submitted_vod;2018.07.03;PID09;26
+Julian Dupont;Doctor;SPID02;Planned_vod;2018.08.10;PID10;7
+Hospital Alexander Krankenhaus;Hospital;SPID04;Submitted_vod;2018.08.08;PID11;19
+St. John hospital;Hospital;SPID19;Planned_vod;2018.08.10;PID01;15
+Alexia Alarie;Doctor;SPID07;Submitted_vod;2018.08.08;PID02;14
+Broussais University Hospital;Hospital;SPID20;Submitted_vod;2018.08.07;PID03;26
+Alexia Alarie;Doctor;SPID17;Submitted_vod;2018.08.07;PID04;22
+Alexia Alarie;Doctor;SPID07;Saved_vod;2018.08.06;PID05;22
+Naomi Hopkins;Doctor;SPID22;Submitted_vod;2018.08.06;PID06;25
+Leoni Beker;Doctor;SPID15;Planned_vod;2018.08.07;PID07;29
+Sven Pernerstorfer;Doctor;SPID20;Submitted_vod;2018.08.08;PID08;7
+Alexia Alarie;Doctor;SPID16;Saved_vod;2018.08.06;PID09;19
+Leonie Becker;Doctor;SPID16;Saved_vod;2018.07.04;PID10;23
+Berkshire Independent Hospital;Hospital;SPID02;Saved_vod;2018.07.03;PID11;25
+Hospital Alexander Krankenhaus;Hospital;SPID20;Submitted_vod;2018.06.28;PID01;17
+Leonie Becker;Doctor;SPID11;Submitted_vod;2018.07.03;PID02;27
+Leonie Becker;Doctor;SPID07;Saved_vod;2018.03.05;PID03;24
+Leoni Beker;Doctor;SPID03;Saved_vod;2018.08.08;PID04;24
+Leoni Beker;Doctor;SPID08;Submitted_vod;2018.08.08;PID05;23
+Michele Fruscella;Doctor;SPID19;Saved_vod;2018.07.03;PID06;6
+Hospital Alexander Krankenhaus;Hospital;SPID18;Submitted_vod;2018.08.06;PID07;16
+Broussais University Hospital;Hospital;SPID01;Saved_vod;2018.08.06;PID08;14
+Robert Adams;Doctor;SPID12;Saved_vod;2018.07.03;PID09;26
+Ewelina Krupowicz;Doctor;SPID21;Submitted_vod;2018.08.08;PID10;9
+Michele Fruscella;Doctor;SPID15;Submitted_vod;2018.07.04;PID11;27
+St. John hospital;Hospital;SPID02;Submitted_vod;2018.07.04;PID01;22
+Maria Giovanna Ruggeri;Doctor;SPID17;Submitted_vod;2018.07.04;PID02;15
+Ann Brown;Doctor;SPID22;Saved_vod;2018.07.04;PID03;9
+Dante Signorini;Doctor;SPID19;Planned_vod;2018.07.19;PID04;23
+Michele Fruscella;Doctor;SPID14;Saved_vod;2018.06.28;PID05;15
+Luca Argento;Doctor;SPID17;Submitted_vod;2018.07.26;PID06;15
+Leonie Becker;Doctor;SPID16;Saved_vod;2018.07.16;PID07;30
+Hospital Alexander Krankenhaus;Hospital;SPID01;Saved_vod;2018.07.25;PID08;16
+Hospital Alexander Krankenhaus;Hospital;SPID05;Saved_vod;2018.07.25;PID09;17
+Leonie Becker;Doctor;SPID02;Saved_vod;2018.07.02;PID10;23
+Leonie Becker;Doctor;SPID21;Saved_vod;2018.07.13;PID11;6
+Naomi Hopkins;Doctor;SPID12;Saved_vod;2018.06.29;PID01;25
+Leonie Becker;Doctor;SPID14;Saved_vod;2018.07.03;PID01;8
+St. John hospital;Hospital;SPID08;Saved_vod;2018.06.28;PID05;20
+Hospital Alexander Krankenhaus;Hospital;SPID04;Saved_vod;2018.06.28;PID06;30
+Lucas Beaumanoir;Doctor;SPID24;Submitted_vod;2018.07.09;PID07;14
+David Barnard;Doctor;SPID05;Planned_vod;2018.07.24;PID08;8
+Hôpital Saint-Louis;Hospital;SPID20;Submitted_vod;2018.07.09;PID09;6
+Leoni Beker;Doctor;SPID25;Planned_vod;2018.08.01;PID10;10
+Leonie Becker;Doctor;SPID08;Saved_vod;2018.07.04;PID11;24
+Hospital Alexander Krankenhaus;Hospital;SPID24;Saved_vod;2018.07.02;PID01;8
+Robert Adams;Doctor;SPID05;Saved_vod;2018.08.02;PID02;15
+Hospital Alexander Krankenhaus;Hospital;SPID14;Submitted_vod;2018.07.13;PID03;11
+Leoni Beker;Doctor;SPID24;Saved_vod;2018.07.09;PID04;10
+Massimiliano Nazionale;Doctor;SPID15;Submitted_vod;2018.07.04;PID05;23
+Jesualdo Bustos Muñiz;Doctor;SPID04;Planned_vod;2018.08.21;PID06;5
+Julian Dupont;Doctor;SPID27;Submitted_vod;2018.07.16;PID07;9
+Ann Brown;Doctor;SPID17;Submitted_vod;2018.08.01;PID08;17
+Juliet Beardsley;Doctor;SPID25;Planned_vod;2018.08.02;PID09;10
+Leoni Beker;Doctor;SPID23;Planned_vod;2018.07.31;PID10;17
