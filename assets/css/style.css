@@ -521,16 +521,16 @@ main .insights small {
 
 @media screen and (max-width: 1200px){
 
-    aside .sidebar {
-    width: 80%;
+    aside {
+        max-width: 80%;
     }
-
     aside .logo img {
        width: 8rem;
     }
     .container {
-        width: 85%;
-        display: flexbox;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
     }
 
     aside .sidebar h3{
@@ -546,23 +546,49 @@ main .insights small {
         margin-top: 1.8rem;
     }
 
+    main {
+        max-width: 550px;
+    }
+
     main .insights {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 0;
+ 
+        flex-direction: row;
+        flex: 100%;
+        margin: 0;
+    }
+
+    main .insights > div {
+        text-align: center;
+        align-items: stretch;
     }
 
     main .respChart {
-        max-width: 100%;
+        width: 400px;
+        padding: 0;
+        margin: 0;
     }
-    .right .top-three-by-sold, .right .top-three-by-income {
+
+    .right {
         max-width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .right .top {
+        display: flex;
+        justify-content: center;
+        gap: 0.5rem;
+    }
+
+    .right .top-three-by-sold, .right .top-three-by-income {
+        max-width: 80%;
         padding: 1rem;
-        margin: 2rem;
+        margin: 1rem;
      }
 }
 
 /* Media Query for Tablets Ipads portrait mode */
-@media (min-width: 768px) and (max-width: 1200px){
+@media (min-width: 768px) and (max-width: 1023px){
     aside .logo img {
         width: 8rem;
      }
@@ -587,14 +613,19 @@ main .insights small {
          position: relative;
          margin-top: 1.8rem;
      }
-
-     main{
-         width: 80%;
-     }
- 
+     main {
+        max-width: 550px;
+    }
      main .insights {
-         display: flexbox;
-     }
+        flex-direction: row;
+        flex: 80%;
+        margin: 0;
+    }
+
+    main .insights > div {
+        text-align: center;
+        align-items: stretch;
+    }
 
      main .insights > div {
         width: 18rem;
@@ -605,17 +636,21 @@ main .insights small {
         max-width: 100%;
          margin: 0 auto;
      }
+ 
      .right {
-         width: 10rem;
-     }
+        max-width: 80%;
+        display: flex;
+        flex-direction: column;
+    }
 
      .right .top {
          padding: 1rem;
      }
 
      .right .top-three-by-sold, .right .top-three-by-income {
-        width: 18rem;
-        padding: 1rem;
+        max-width: 150px;
+        height: auto;
+        padding: 0.5rem;
         margin: 2rem;
      }
 
@@ -687,18 +722,28 @@ main .insights small {
         margin: 0 auto  4rem;
     }
 
+    
+
     .right .top {
+        display: flex;
         position: fixed;
         top: 0;
         left: 0;
+        right: 0;
         align-items: center;
-        padding: 0 0.8rem;
+
+        padding: 0 1rem;
         height: 4.6rem;
         background: var(--color-white);
         width: 100%;
         margin: 0;
         z-index: 2;
         box-shadow: 0 1rem 1rem var(--color-info-light);
+    }
+
+    .right .top .profile-photo {
+        width: 30px;
+        height: 30px;
     }
 
     .right .top .theme-toggler {
@@ -723,11 +768,16 @@ main .insights small {
         font-size: 2rem;
     }
 
-    main .respChart {
+    main .recent-order {
         max-width: 100%;
         align-items: center;
+        margin: 3rem;
     }
 
+        .respChart {
+            width: 100%;
+            height: 100%;
+        }
     .right .top-three-by-sold, .right .top-three-by-income {
         max-width: 100%;
         margin: 1rem;
