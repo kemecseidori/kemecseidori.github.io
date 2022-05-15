@@ -506,7 +506,6 @@ main .insights small {
     border-bottom: 1px solid var(--color-primary);
 }
 
-
 .top-three-by-sold table tbody tr:last-child td, .top-three-by-income table tbody tr:last-child td {
     border: none;
 }
@@ -553,7 +552,7 @@ main .insights small {
     }
 
     main .respChart {
-        width: 84vw;
+        max-width: 100%;
     }
     .right .top-three-by-sold, .right .top-three-by-income {
         max-width: 100%;
@@ -603,7 +602,7 @@ main .insights small {
      }
  
      main .respChart {
-         width: 84vw;
+        max-width: 100%;
          margin: 0 auto;
      }
      .right {
@@ -679,6 +678,8 @@ main .insights small {
     main .insights {
         grid-template-columns: 1fr;
         gap: 0;
+        justify-content: center;
+        align-items: center;
     }
 
     .right {
@@ -702,8 +703,7 @@ main .insights small {
 
     .right .top .theme-toggler {
         width: 4.4rem;
-        position: absolute;
-        left: 66%;
+
     }
 
     .right .profile .info {
@@ -724,7 +724,7 @@ main .insights small {
     }
 
     main .respChart {
-        width: 85vw;
+        max-width: 100%;
         align-items: center;
     }
 
