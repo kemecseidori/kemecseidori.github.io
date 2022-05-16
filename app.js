@@ -168,7 +168,7 @@ function topByRevenue(){
 
   cell1.innerHTML = salesPerson[0].id;
   cell2.innerHTML = salesPerson[0].Name;
-  cell3.innerHTML = salesPerson[0].topRev;
+  cell3.innerHTML = formatter.format(salesPerson[0].topRev);
 
   const row2 = table.insertRow(2);
   const cell4 = row2.insertCell(0);
@@ -177,7 +177,7 @@ function topByRevenue(){
 
   cell4.innerHTML = salesPerson[1].id;
   cell5.innerHTML = salesPerson[1].Name;
-  cell6.innerHTML = salesPerson[1].topRev;
+  cell6.innerHTML = formatter.format(salesPerson[1].topRev);
 
 
   const row3 = table.insertRow(3);
@@ -187,7 +187,7 @@ function topByRevenue(){
 
   cell7.innerHTML = salesPerson[2].id;
   cell8.innerHTML = salesPerson[2].Name;
-  cell9.innerHTML = salesPerson[2].topRev;
+  cell9.innerHTML = formatter.format(salesPerson[2].topRev);
 }
 
 function topBySales() {
@@ -241,6 +241,7 @@ let sideMenu = document.querySelector("aside");
 let menuBtn = document.querySelector("#menu-btn");
 let closeBtn = document.querySelector("#close-btn");
 let themeToggler = document.querySelector(".theme-toggler");
+
 
 menuBtn.addEventListener('click', () => { 
   sideMenu.style.display = 'block';
