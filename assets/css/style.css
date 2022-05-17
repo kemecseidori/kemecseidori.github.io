@@ -588,7 +588,7 @@ main .insights small {
 }
 
 /* Media Query for Tablets Ipads portrait mode */
-@media (min-width: 768px) and (max-width: 1023px){
+@media (min-width: 769px) and (max-width: 1023px){
     aside .logo img {
         width: 8rem;
      }
@@ -657,9 +657,10 @@ main .insights small {
 }
 
 /* Media Query for low resolution  Tablets, Ipads */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .container {
         width: 100%;
+        height: 100%;
         grid-template-columns: 1fr;
     }
 
@@ -711,7 +712,14 @@ main .insights small {
 
     main .insights {
         grid-template-columns: 1fr;
-        gap: 0;
+        justify-content: center;
+        align-items: center;
+        max-width: 100%;
+        pad: 1rem;
+    }
+
+    main .insights > div {
+        width: 90%;
         justify-content: center;
         align-items: center;
     }
@@ -777,6 +785,10 @@ main .insights small {
         .respChart {
             width: 100%;
             height: 100%;
+        }
+
+        .respChart .myChart {
+            width: 100%;
         }
     .right .top-three-by-sold, .right .top-three-by-income {
         max-width: 100%;
